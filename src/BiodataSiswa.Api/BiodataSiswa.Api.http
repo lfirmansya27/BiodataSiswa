@@ -1,0 +1,6 @@
+@BiodataSiswa.Api_HostAddress = http://localhost:5023
+
+GET {{BiodataSiswa.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

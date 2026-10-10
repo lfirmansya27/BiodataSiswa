@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BiodataSiswa.Api/BiodataSiswa.Api.csproj" />
+    <Project Path="src/BiodataSiswa.Application/BiodataSiswa.Application.csproj" />
+    <Project Path="src/BiodataSiswa.Domain/BiodataSiswa.Domain.csproj" />
+    <Project Path="src/BiodataSiswa.Infrastructure/BiodataSiswa.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BiodataSiswa.IntegrationTests/BiodataSiswa.IntegrationTests.csproj" />
+    <Project Path="tests/BiodataSiswa.UnitTests/BiodataSiswa.UnitTests.csproj" />
+  </Folder>
+</Solution>
